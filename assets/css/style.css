@@ -1,0 +1,89 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+header {
+    width: 1280px;
+    height: 73px;
+    opacity: 1;
+
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.parrafos {
+    width: 1280px;
+    height: 348px;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.uno-imagen {
+    float: right;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.dos-parrafos {
+    margin: 10% 5% 5% 10%;
+}
+
+.features {
+    width: 1280px;
+    height: 348px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.94;
+}
+
+.feature {
+    width: 30%;
+    padding: 1.5%;
+    display: inline-block;
+    font-size: 30px;
+}
+
+.features h2 {
+    padding: 50px;
+    margin: 25px;
+    font-size: 35px;
+    text-align: center;
+}
+
+.gallery {
+    width: 1280px;
+    height: 348px;
+    padding: 50px 50px 50px 50px;
+}
+
+.galeria-fotos {
+    display: inline-block;
+    width: 30%;
+    padding: 1%;
+}
+
+footer {
+    width: 1280px;
+    height: 102px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.94;
+}
+
+.text-aling-center {
+    line-height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+footer .text-aling-center .bajada {
+    text-decoration: none;
+    color: white;
+}
